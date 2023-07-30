@@ -29,7 +29,7 @@ body {
 .container {
     margin: 2rem;
     max-width: 700px;
-    height: 880px;
+    height: 970px;
     background-color: var(--White);
     padding: 1.5rem;
     border-radius: 15px;
